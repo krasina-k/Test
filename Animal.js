@@ -7,3 +7,7 @@ class Dog{
   age;
   breed;
 }
+class Bird{
+  name;
+  age; 
+}
